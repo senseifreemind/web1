@@ -1,0 +1,121 @@
+body {
+  background-color: #112121;
+}
+
+h1 {
+  width: auto;
+  height: auto;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: calc(3rem*1.5);
+  text-align: center;
+  margin: 0px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: none;
+  padding: 25px;
+}
+
+.text-wrapper {
+  display: inline-block;
+}
+
+.letter {
+  display: inline-block;
+}
+
+.font-crafty-girls {
+  font-family: 'Crafty Girls', cursive;
+}
+
+.neon-83ff00 {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #83ff00, 0em 0em 2em #83ff00, 1px 1px 5px #83ff00, 0px 0px 15px #83ff00, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-83ff00:hover {
+  color: #83ff00;
+  text-shadow: 0em 0em 5em #83ff00, 0em 0em 3em #83ff00, 0em 0em 2em #83ff00, 1px 1px 5px #83ff00, 0px 0px 10px #83ff00, 0px 0px 25px #83ff00, 0px 0px 45px #83ff00, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.font-delius-swash-caps {
+  font-family: 'Delius Swash Caps', cursive;
+}
+
+.neon-ffffff-ff00de {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #ffffff, 0em 0em 2em #ffffff, 1px 1px 5px #ff00de, 0px 0px 15px #ff00de, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-ffffff-ff00de:hover {
+  color: #ffffff;
+  text-shadow: 0em 0em 5em #ff00de, 0em 0em 3em #ff00de, 0em 0em 2em #ff00de, 1px 1px 5px #ff00de, 0px 0px 10px #ff00de, 0px 0px 25px #ff00de, 0px 0px 45px #ff00de, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.font-codystar {
+  font-family: 'Codystar', cursive;
+}
+
+.neon-ff0066 {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #ff0066, 0em 0em 2em #ff0066, 1px 1px 5px #ff0066, 0px 0px 15px #ff0066, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-ff0066:hover {
+  color: #ff0066;
+  text-shadow: 0em 0em 5em #ff0066, 0em 0em 3em #ff0066, 0em 0em 2em #ff0066, 1px 1px 5px #ff0066, 0px 0px 10px #ff0066, 0px 0px 25px #ff0066, 0px 0px 45px #ff0066, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.font-bubbler-one {
+  font-family: 'Bubbler One', sans-serif;
+}
+
+.neon-ffff00 {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #ffff00, 0em 0em 2em #ffff00, 1px 1px 5px #ffff00, 0px 0px 15px #ffff00, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-ffff00:hover {
+  color: #ffff00;
+  text-shadow: 0em 0em 5em #ffff00, 0em 0em 3em #ffff00, 0em 0em 2em #ffff00, 1px 1px 5px #ffff00, 0px 0px 10px #ffff00, 0px 0px 25px #ffff00, 0px 0px 45px #ffff00, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.font-baloo {
+  font-family: 'Baloo', cursive;
+}
+
+.font-baloo {
+  font-family: 'Baloo', cursive;
+}
+
+.neon-ff3300 {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #ff3300, 0em 0em 2em #ff3300, 1px 1px 5px #ff3300, 0px 0px 15px #ff3300, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-ff3300:hover {
+  color: #ff3300;
+  text-shadow: 0em 0em 5em #ff3300, 0em 0em 3em #ff3300, 0em 0em 2em #ff3300, 1px 1px 5px #ff3300, 0px 0px 10px #ff3300, 0px 0px 25px #ff3300, 0px 0px 45px #ff3300, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.font-warnes {
+  font-family: 'Warnes', cursive;
+}
+
+.neon-228dff {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0);
+  text-shadow: 0em 0em 3em #228dff, 0em 0em 2em #228dff, 1px 1px 5px #228dff, 0px 0px 15px #228dff, 1px 0px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+
+.neon-228dff:hover {
+  color: #228dff;
+  text-shadow: 0em 0em 5em #228dff, 0em 0em 3em #228dff, 0em 0em 2em #228dff, 1px 1px 5px #228dff, 0px 0px 10px #228dff, 0px 0px 25px #228dff, 0px 0px 45px #228dff, 2px 1px 0px white, -1px 0px 2px rgba(0, 0, 0, .5);
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "sensei",
+  "version": "1.0.0",
+  "description": "Webapp for torrin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jvp",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-device": "^0.4.2",
+    "node": "^11.10.0",
+    "normalize-port": "^1.0.0",
+    "swig": "^1.4.2"
+  },
+  "repository": "https://github.com/jpizzitola/Sensei.git"
+}
